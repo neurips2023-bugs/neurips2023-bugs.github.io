@@ -160,7 +160,7 @@ This workshop will not have formal proceedings, so we welcome the submission of 
     <td style="text-align:center"><a href="localhost:4000">Khoa D Doan</a> <br>VinUniversity, Vietnam</td>
     <td style="text-align:center"><a href="localhost:4000">Aniruddha Saha</a> <br>University of Maryland, College Park, USA</td>
     <td style="text-align:center"><a href="localhost:4000">Anh Tuan Tran</a> <br>VinAI Research, Vietnam</td>
-    <td style="text-align:center"><a href="localhost:4000">Yingjie Lao</a> <br>Tufts University, USA</td>
+    <td style="text-align:center"><a href="localhost:4000">Yingjie Lao</a> <br>Clemson University, USA</td>
     <td style="text-align:center"><a href="localhost:4000">Kok-seng Wong</a> <br>VinUniversity, Vietnam</td>
   </tr>
   <!-- <tr>
