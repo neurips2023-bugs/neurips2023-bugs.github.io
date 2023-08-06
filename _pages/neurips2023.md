@@ -161,7 +161,7 @@ This workshop will not have formal proceedings, so we welcome the submission of 
     <td style="text-align:center"><img src="assets/img/org-khoa-doan.jpg" height="175" width="150"></td>
     <td style="text-align:center"><img src="assets/img/org-anidruddha-saha.jpeg" height="175"  width="150"></td>
     <td style="text-align:center"><img src="assets/img/org-anh-tran.jpg" height="175" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-yingjie-lao.jpg" height="175" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-yingjie-lao.JPG" height="175" width="150"></td>
     <td style="text-align:center"><img src="assets/img/org-kok-seng-wong.png" height="175" width="150"></td>
   </tr>
   <tr>
