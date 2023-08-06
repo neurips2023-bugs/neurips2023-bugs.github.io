@@ -5,7 +5,7 @@ permalink: /
 title: Workshop 2023
 # redirect_from: /index.html
 desc_title: Backdoors in Deep Learning @ NeurIPS 2023
-description: The Good, the Bad and the Ugly
+description: <strong>The Good, the Bad and the Ugly</strong> - Modern AI development requires using and sharing of models and data safely. Uncovering backdoor, a foe and a friend at the front door.
 social: true
 ---
 
@@ -43,17 +43,17 @@ social: true
 ### Call for Papers
 
 
-We cordially invite submissions and participation in our “Backdoors in Deep Learning: The Good, the Bad, and the Ugly” workshop that will be held on December 15 or 16, 2023 at NeurIPS 2023, New Orleans, USA.
+We cordially invite submissions and participation in our “Backdoors in Deep Learning: The Good, the Bad, and the Ugly” workshop (neurips2023-bugs.github.io) that will be held on December 15 or 16, 2023 at NeurIPS 2023, New Orleans, USA. 
 
-The submission deadline is September 29, 2023, 23:59 AoE and the submission link is (TBD).
+The submission deadline is **September 29, 2023, 23:59 AoE** and the submission link <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS">https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS</a>.
 
 #### Motivation and Topics
 
 Deep neural networks (DNNs) are revolutionizing almost all AI domains and have become the core of many modern AI systems. Despite their superior performance compared to classical methods, DNNs also face new security problems, such as adversarial and backdoor attacks, that are hard to discover and resolve due to their black-box-like property. Backdoor attacks are possible because of insecure model pretraining and outsourcing practices. Due to the complexity and the tremendous cost of collecting data and training models, many individuals/companies employ models or training data from third parties. Malicious third parties can add backdoors into their models or poison their released data before delivering it to the victims to gain illegal benefits. This threat seriously damages the safety and trustworthiness of AI development.
 
-While most works consider backdoors “evil”, some studies leverage them for good purposes. A popular approach is to use the backdoor as a watermark to detect illegal uses of commercialized data/models. A few works employ the backdoor as a trapdoor for adversarial defense. Learning the underlying working mechanisms of backdoors also elevates our understanding of how deep learning models work.
-
+While most works consider backdoors “evil”, some studies leverage them for good purposes. A popular approach is to use the backdoor as a watermark to detect illegal uses of commercialized data/models. Watermarks can also be used to mark generated data, which becomes crucial with the introduction of big generative models (LLMs, text-to-image generators). For instance, the paper “A Watermark for Large Language Models” has received an outstanding paper award at ICML 2023, showing the community’s great interest in this critical topic. Besides, a few works employ the backdoor as a trapdoor for adversarial defense. Learning the underlying working mechanisms of backdoors also elevates our understanding of how deep learning models work.
 This workshop is designed to provide a comprehensive understanding of the current state of backdoor research. Our goal is to foster discussion and perspective exchange, as well as to engage the community in identifying social good applications of backdoors. As such, we welcome submissions related to any aspect of backdoor research, including but not limited to:
+
 
 * Backdoor attacks
   * Poisoning attacks
@@ -70,9 +70,10 @@ This workshop is designed to provide a comprehensive understanding of the curren
   * Backdoor detection (poisoned inputs, poisoned models) - Backdoor mitigation (data sanitization, model repair)
   * Understanding backdoor behaviors
 * Backdoor for social good
-  * Watermarking (for IP Protection, Ownership Verification, etc...)
+  * Watermarking (for IP Protection, Ownership Verification, Generative Data Marking, etc...)
   * Trapdoor/Honeypot defenses
   * Model unlearning
+  * Deep model behavior understanding
 
 The workshop will employ a double-blind review process. Each submission will be evaluated based on the following criteria:
 
@@ -80,7 +81,7 @@ The workshop will employ a double-blind review process. Each submission will be 
 * Relevance to the workshop
 * Societal impacts
 
-We only consider submissions that haven’t been published in any peer-reviewed venue, including NeurIPS 2023 conference. We allow dual submissions with other workshops or conferences. The workshop is non-archival and will not have any official proceedings. All accepted papers will be allocated either a poster presentation or a talk slot.
+We only consider submissions that haven’t been published in any peer-reviewed venue, including NeurIPS 2023 conference. **We allow dual submissions with other workshops or conferences. The workshop is non-archival and will not have any official proceedings**. All accepted papers will be allocated either a poster presentation or a talk slot.
  
 <!-- ### Call for Reviewers
 Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L9_o7vAZUSWjWMxi18jZHuIrBaafUBm6v1fTZQorK2o9Qw/viewform) if you are interested in reviewing for the workshop.
@@ -94,7 +95,13 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 * **Camera-ready deadline**: December 1, 2023, 11:59 PM Anywhere on Earth (AoE)
 * **Workshop date**: TBD
 
-### Submission Instructions (Coming Soon)
+### Submission Instructions
+
+Papers should be submitted to OpenReview: <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS">https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS</a>
+
+Submitted papers should have up to 6 pages (excluding references, acknowledgments, or appendices). Please use the NeurIPS submission template provided at <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS">https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles</a>
+Submissions must be anonymous following NeurIPS double-blind reviewing guidelines, NeurIPS Code of Conduct, and Code of Ethics. Accepted papers will be hosted on the workshop website but are considered non-archival and can be submitted to other workshops, conferences, or journals if their submission policy allows.
+
 
 <!-- **Submission website: [OpenReview](https://openreview.net/group?id=ICML.cc/2023/Workshop/NCW)**
 
@@ -150,12 +157,13 @@ This workshop will not have formal proceedings, so we welcome the submission of 
 
 
 <table style="width:100%">
-  <!-- <tr>
-    <td style="text-align:center"><img src="assets/img/berivan_isik.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/yibo_yang.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/daniel_severo.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/karen_ullrich.jpg" height="175"></td>
-  </tr> -->
+  <tr>
+    <td style="text-align:center"><img src="assets/img/org-khoa-doan.jpg" height="175" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-anidruddha-saha.jpeg" height="175"  width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-anh-tran.jpg" height="175" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-yingjie-lao.jpg" height="175" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-kok-seng-wong.png" height="175" width="150"></td>
+  </tr>
   <tr>
     <td style="text-align:center"><a href="localhost:4000">Khoa D Doan</a> <br>VinUniversity, Vietnam</td>
     <td style="text-align:center"><a href="localhost:4000">Aniruddha Saha</a> <br>University of Maryland, College Park, USA</td>
@@ -163,10 +171,13 @@ This workshop will not have formal proceedings, so we welcome the submission of 
     <td style="text-align:center"><a href="localhost:4000">Yingjie Lao</a> <br>Clemson University, USA</td>
     <td style="text-align:center"><a href="localhost:4000">Kok-seng Wong</a> <br>VinUniversity, Vietnam</td>
   </tr>
-  <!-- <tr>
-    <td style="text-align:center"><img src="assets/img/robert_bamler.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/stephan_mandt.jpg" height="175"></td>
-  </tr> -->
+  <tr>
+    <td style="text-align:center"><img src="assets/img/org-ang-li.jpeg" height="175" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-haripriya-harikumar.jpg" height="175"  width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-eugene-bagdasaryan.jpeg" height="175" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-micah-goldblum.jpg" height="175" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-tom-goldstein.jpg" height="175" width="150"></td>
+  </tr>
   <tr>
     <td style="text-align:center"><a href="localhost:4000">Ang Li</a> <br>Baidu Apollo, USA</td>
     <td style="text-align:center"><a href="localhost:4000">Haripriya Harikumar</a> <br>Deakin University, Australia</td>
@@ -177,21 +188,22 @@ This workshop will not have formal proceedings, so we welcome the submission of 
 </table>
 
 
-### Organizers affiliations (Coming Soon)
-<!-- <td style="text-align:center"><img src="assets/img/logo_stanford.png" height="100"></td>
+### Organizers affiliations
+<td style="text-align:center"><img src="assets/img/inst-vinuni-cecs.png" height="100"></td>
 <br>
 
-<td style="text-align:center"><img src="assets/img/logo_uci.jpg" height="100"></td>
+<td style="text-align:center"><img src="assets/img/inst-umd-cs.png" height="100"></td>
 <br>
 
-<td style="text-align:center"><img src="assets/img/logo_uoft.png" height="100"></td>
+<td style="text-align:center"><img src="assets/img/inst-vinai.png" height="100"></td>
 <br>
 
-<td style="text-align:center"><img src="assets/img/logo_vector.png" height="100"></td>
+
+<td style="text-align:center"><img src="assets/img/inst-clemson.png" height="100"></td>
 <br>
 
-<td style="text-align:center"><img src="assets/img/logo_meta.png" height="100"></td>
+<td style="text-align:center"><img src="assets/img/inst-deakin.png" height="100"></td>
 <br>
 
-<td style="text-align:center"><img src="assets/img/logo_ut.png" height="100"></td> -->
+<td style="text-align:center"><img src="assets/img/inst-cornell-tech.png" height="100"></td>
 

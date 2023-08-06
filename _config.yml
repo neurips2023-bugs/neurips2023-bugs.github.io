@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Backdoors in Deep Learning
-email: neurips2023.bugs@gmail.com
+email: neurips2023-bugs@googlegroups.com
 description: > # this means to ignore newlines until "url:"
   Research on Deep Learning Backdoors
 footer_text: >
