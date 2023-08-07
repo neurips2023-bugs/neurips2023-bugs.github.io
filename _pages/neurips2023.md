@@ -158,11 +158,11 @@ This workshop will not have formal proceedings, so we welcome the submission of 
 
 <table style="width:100%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/org-khoa-doan.jpg" height="175" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-anidruddha-saha.jpeg" height="175"  width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-anh-tran.jpg" height="175" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-yingjie-lao.JPG" height="175" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-kok-seng-wong.png" height="175" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-khoa-doan-square.jpg" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-anidruddha-saha-square.jpeg" height="150"  width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-anh-tran-square.jpg" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-yingjie-lao-square.JPG" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-kok-seng-wong-square.png" height="150" width="150"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="localhost:4000">Khoa D Doan</a> <br>VinUniversity, Vietnam</td>
@@ -172,11 +172,11 @@ This workshop will not have formal proceedings, so we welcome the submission of 
     <td style="text-align:center"><a href="localhost:4000">Kok-seng Wong</a> <br>VinUniversity, Vietnam</td>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="assets/img/org-ang-li.jpeg" height="175" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-haripriya-harikumar.jpg" height="175"  width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-eugene-bagdasaryan.jpeg" height="175" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-micah-goldblum.jpg" height="175" width="150"></td>
-    <td style="text-align:center"><img src="assets/img/org-tom-goldstein.jpg" height="175" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-ang-li-square.jpeg" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-haripriya-harikumar-square.jpg" height="150"  width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-eugene-bagdasaryan-square.jpeg" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-micah-goldblum-square.jpg" height="150" width="150"></td>
+    <td style="text-align:center"><img src="assets/img/org-tom-goldstein-square.jpg" height="150" width="150"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="localhost:4000">Ang Li</a> <br>Baidu Apollo, USA</td>
@@ -189,21 +189,21 @@ This workshop will not have formal proceedings, so we welcome the submission of 
 
 
 ### Organizers affiliations
-<td style="text-align:center"><img src="assets/img/inst-vinuni-cecs.png" height="100"></td>
+<td style="text-align:center"><img src="assets/img/inst-vinuni-cecs.png" height="75"></td>
 <br>
 
-<td style="text-align:center"><img src="assets/img/inst-umd-cs.png" height="100"></td>
+<td style="text-align:center"><img src="assets/img/inst-umd-cs.png" height="75"></td>
 <br>
 
-<td style="text-align:center"><img src="assets/img/inst-vinai.png" height="100"></td>
+<td style="text-align:center"><img src="assets/img/inst-vinai.png" height="75"></td>
 <br>
 
 
-<td style="text-align:center"><img src="assets/img/inst-clemson.png" height="100"></td>
+<td style="text-align:center"><img src="assets/img/inst-clemson.png" height="75"></td>
 <br>
 
-<td style="text-align:center"><img src="assets/img/inst-deakin.png" height="100"></td>
+<td style="text-align:center"><img src="assets/img/inst-deakin.png" height="75"></td>
 <br>
 
-<td style="text-align:center"><img src="assets/img/inst-cornell-tech.png" height="100"></td>
+<td style="text-align:center"><img src="assets/img/inst-cornell-tech.png" height="75"></td>
 
