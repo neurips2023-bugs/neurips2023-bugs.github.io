@@ -189,21 +189,21 @@ This workshop will not have formal proceedings, so we welcome the submission of 
 
 
 ### Organizers affiliations
-<td style="text-align:center"><img src="assets/img/inst-vinuni-cecs.png" height="75"></td>
+<td style="text-align:center"><a href="https://vinuni.edu.vn/college-of-engineering-computer-science/"><img src="assets/img/inst-vinuni-cecs.png" height="75"></a></td>
 <br>
 
-<td style="text-align:center"><img src="assets/img/inst-umd-cs.png" height="75"></td>
+<td style="text-align:center"><a href="https://www.cs.umd.edu/"><img src="assets/img/inst-umd-cs.png" height="75"></a></td>
 <br>
 
-<td style="text-align:center"><img src="assets/img/inst-vinai.png" height="75"></td>
+<td style="text-align:center"><a href="https://www.vinai.io/"><img src="assets/img/inst-vinai.png" height="75"></a></td>
 <br>
 
 
-<td style="text-align:center"><img src="assets/img/inst-clemson.png" height="75"></td>
+<td style="text-align:center"><a href="https://www.clemson.edu/index.html"><img src="assets/img/inst-clemson.png" height="75"></a></td>
 <br>
 
-<td style="text-align:center"><img src="assets/img/inst-deakin.png" height="75"></td>
+<td style="text-align:center"><a href="https://www.deakin.edu.au/"><img src="assets/img/inst-deakin.png" height="75"></a></td>
 <br>
 
-<td style="text-align:center"><img src="assets/img/inst-cornell-tech.png" height="75"></td>
+<td style="text-align:center"><a href="https://tech.cornell.edu/"><img src="assets/img/inst-cornell-tech.png" height="75"></a></td>
 
