@@ -165,11 +165,11 @@ This workshop will not have formal proceedings, so we welcome the submission of 
     <td style="text-align:center"><img src="assets/img/org-kok-seng-wong-square.png" height="150" width="150"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="localhost:4000">Khoa D Doan</a> <br>VinUniversity, Vietnam</td>
-    <td style="text-align:center"><a href="localhost:4000">Aniruddha Saha</a> <br>University of Maryland, College Park, USA</td>
-    <td style="text-align:center"><a href="localhost:4000">Anh Tuan Tran</a> <br>VinAI Research, Vietnam</td>
-    <td style="text-align:center"><a href="localhost:4000">Yingjie Lao</a> <br>Clemson University, USA</td>
-    <td style="text-align:center"><a href="localhost:4000">Kok-seng Wong</a> <br>VinUniversity, Vietnam</td>
+    <td style="text-align:center"><a href="https://khoadoan.me">Khoa D Doan</a> <br>VinUniversity, Vietnam</td>
+    <td style="text-align:center"><a href="https://ani0075saha.github.io">Aniruddha Saha</a> <br>University of Maryland, College Park, USA</td>
+    <td style="text-align:center"><a href="https://scholar.google.com/citations?user=FYZ5ODQAAAAJ&hl=en">Anh Tuan Tran</a> <br>VinAI Research, Vietnam</td>
+    <td style="text-align:center"><a href="https://ylao.people.clemson.edu">Yingjie Lao</a> <br>Clemson University, USA</td>
+    <td style="text-align:center"><a href="https://vinuni.edu.vn/people/kok-seng-wong">Kok-seng Wong</a> <br>VinUniversity, Vietnam</td>
   </tr>
   <tr>
     <td style="text-align:center"><img src="assets/img/org-ang-li-square.jpeg" height="150" width="150"></td>
@@ -179,11 +179,11 @@ This workshop will not have formal proceedings, so we welcome the submission of 
     <td style="text-align:center"><img src="assets/img/org-tom-goldstein-square.jpg" height="150" width="150"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="localhost:4000">Ang Li</a> <br>Baidu Apollo, USA</td>
-    <td style="text-align:center"><a href="localhost:4000">Haripriya Harikumar</a> <br>Deakin University, Australia</td>
-    <td style="text-align:center"><a href="localhost:4000">Eugene Bagdasaryan</a> <br>Cornell Tech, USA</td>
-    <td style="text-align:center"><a href="localhost:4000">Micah Goldblum</a> <br>New York University, USA</td>
-    <td style="text-align:center"><a href="localhost:4000">Tom Goldstein</a> <br>University of Maryland, College Park, USA</td>
+    <td style="text-align:center"><a href="https://angli.ai">Ang Li</a> <br>Simular Research, USA</td>
+    <td style="text-align:center"><a href="https://haripriyaaharikumar.github.io">Haripriya Harikumar</a> <br>Deakin University, Australia</td>
+    <td style="text-align:center"><a href="https://ebagdasa.github.io/">Eugene Bagdasaryan</a> <br>Cornell Tech, USA</td>
+    <td style="text-align:center"><a href="https://goldblum.github.io/">Micah Goldblum</a> <br>New York University, USA</td>
+    <td style="text-align:center"><a href="https://www.cs.umd.edu/~tomg/">Tom Goldstein</a> <br>University of Maryland, College Park, USA</td>
   </tr>
 </table>
 
