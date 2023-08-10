@@ -206,4 +206,6 @@ This workshop will not have formal proceedings, so we welcome the submission of 
 <br>
 
 <td style="text-align:center"><a href="https://tech.cornell.edu/"><img src="assets/img/inst-cornell-tech.png" height="75"></a></td>
+<br>
 
+<td style="text-align:center"><a href="https://tech.cornell.edu/"><img src="assets/img/New_York_University-Logo.png" height="75"></a></td>
