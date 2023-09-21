@@ -90,10 +90,10 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 
 ### Important Dates
 
-* **Submission deadline**: September 29, 2023, 11:59 PM Anywhere on Earth (AoE)
-* **Author notification**: October 27, 2023
-* **Camera-ready deadline**: December 1, 2023, 11:59 PM Anywhere on Earth (AoE)
-* **Workshop date**: TBD
+* **Submission deadline**: September 29th, 2023, 11:59 PM Anywhere on Earth (AoE)
+* **Author notification**: October 27th, 2023
+* **Camera-ready deadline**: December 1st, 2023, 11:59 PM Anywhere on Earth (AoE)
+* **Workshop date**: December 15th, 2023 (Full-day Event)
 
 ### Submission Instructions
 
