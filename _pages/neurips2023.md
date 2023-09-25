@@ -45,7 +45,7 @@ social: true
 
 We cordially invite submissions and participation in our “Backdoors in Deep Learning: The Good, the Bad, and the Ugly” workshop (neurips2023-bugs.github.io) that will be held on December 15 or 16, 2023 at NeurIPS 2023, New Orleans, USA. 
 
-The submission deadline is **September 29, 2023, 23:59 AoE** and the submission link <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS">https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS</a>.
+The submission deadline is **<s>September 29, 2023</s> October 3rd, 2023, 23:59 AoE** and the submission link <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS">https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS</a>.
 
 #### Motivation and Topics
 
@@ -90,7 +90,7 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 
 ### Important Dates
 
-* **Submission deadline**: September 29th, 2023, 11:59 PM Anywhere on Earth (AoE)
+* **Submission deadline**: <s>September 29th, 2023</s> October 3rd, 2023, 11:59 PM Anywhere on Earth (AoE)
 * **Author notification**: October 27th, 2023
 * **Camera-ready deadline**: December 1st, 2023, 11:59 PM Anywhere on Earth (AoE)
 * **Workshop date**: December 15th, 2023 (Full-day Event)
@@ -111,30 +111,34 @@ Some accepted papers will be accepted as contributed talks. All accepted posters
 
 This workshop will not have formal proceedings, so we welcome the submission of work currently under review at other archival ML venues. We also welcome the submission of work recently published in information theory venues (e.g. Transactions on Information Theory, ISIT, ITW) that may be of interest to an ML audience. However, we will not consider work recently published in or accepted to other archival ML venues (e.g. ICML main conference). -->
 
-### Speakers (Coming Soon)
+### Speakers
 
-<!-- <table style="width:75%">
+<table style="width:100%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/johannes_balle.png" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/jose_hernandez-lobato.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/hyeji_kim.png" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/yan_lu.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-bo-li-square.png" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-ruoxi-jia-square.png" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-adam-dziedzic-square.png" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-florian-tramer-square.png" height="170" width="170"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://balle.io">Johannes Ballé</a> <br> Research Scientist, Google</td>
-    <td style="text-align:center"><a href="https://jmhl.org">José Miguel Hernández-Lobato</a> <br> Professor, Cambridge</td>
-    <td style="text-align:center"><a href="https://sites.utexas.edu/hkim/">Hyeji Kim</a> <br> Assistant Professor, UT Austin</td>
-    <td style="text-align:center"><a href="https://www.microsoft.com/en-us/research/people/yanlu/">Yan Lu</a> <br> Partner Research Manager, Microsoft Research Asia</td>
+    <td style="text-align:center"><a href="https://aisecure.github.io/">Bo Li</a> <br> Assistant Professor, UIUC</td>
+    <td style="text-align:center"><a href="https://ruoxijia.info/">Ruoxi Jia</a> <br> Assistant Professor, Virginia Tech</td>
+    <td style="text-align:center"><a href="https://adam-dziedzic.com/">Adam Dziedzic</a> <br> Assistant Professor, CISPA</td>
+    <td style="text-align:center"><a href="https://floriantramer.com/">Florian Tramèr</a> <br> Assistant Professor, ETH Zürich</td>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="assets/img/aaron_wagner.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/tsachy_weissman.png" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-yiming-li-square.png" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-baoyuan-wu-square.png" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-dawn-song-square.png" height="170" width="170"></td>
+    <td style="text-align:center"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://www.ece.cornell.edu/faculty-directory/aaron-b-wagner">Aaron Wagner</a> <br> Professor, Cornell</td>
-    <td style="text-align:center"><a href="https://web.stanford.edu/~tsachy/">Tsachy Weissman</a> <br> Professor, Stanford</td>
+    <td style="text-align:center"><a href="http://liyiming.tech/">Yiming Li</a> <br> Research Professor, Zhejiang University</td>
+    <td style="text-align:center"><a href="https://sites.google.com/site/baoyuanwu2015/">Baoyuan Wu</a> <br> Associate Professor, CUHK-Shenzhen</td>
+    <td style="text-align:center"><a href="https://dawnsong.io/">Dawn Song</a> <br> Professor, UC Berkeley	</td>
+    <td style="text-align:center"></td>
   </tr>
-</table> -->
+</table>
 
 ### Panelists (Coming Soon)
 
