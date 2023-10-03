@@ -142,32 +142,6 @@ This workshop will not have formal proceedings, so we welcome the submission of 
 
 ### Panelists (Coming Soon)
 
-<!-- <table style="width:100%">
-  <tr>
-    <td style="text-align:center"><img src="assets/img/panelist-franziska-boenisch-square.png" height="170" width="170" /></td>
-    <td style="text-align:center"><img src="assets/img/speaker-blank-square.png" height="170" width="170" /></td>
-    <td style="text-align:center"><img src="assets/img/speaker-blank-square.png" height="170" width="170" /></td>
-    <td style="text-align:center"><img src="assets/img/speaker-blank-square.png" height="170" width="170" /></td>
-  </tr>
-  <tr>
-    <td style="text-align:center"><a href="https://franziska-boenisch.de/">Franziska Boenisch</a> <br> Postdoctoral Fellow, Vector Institute</td>
-    <td style="text-align:center"></td>
-    <td style="text-align:center"></td>
-    <td style="text-align:center"></td>
-  </tr> 
-  <!-- <tr>
-    <td style="text-align:center"></td>
-    <td style="text-align:center"></td>
-    <td style="text-align:center"></td>
-    <td style="text-align:center"></td>
-  </tr>
-  <tr>
-    <td style="text-align:center"></td>
-    <td style="text-align:center"></td>
-    <td style="text-align:center"></td>
-    <td style="text-align:center"></td>
-  </tr>    -->
-<!-- </table> -->
 
 ### Organizers 
 
