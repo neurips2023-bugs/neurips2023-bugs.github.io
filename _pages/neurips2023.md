@@ -167,7 +167,7 @@ This workshop will not have formal proceedings, so we welcome the submission of 
     <td style="text-align:center"></td>
     <td style="text-align:center"></td>
   </tr>    -->
-<!-- </table> --> -->
+<!-- </table> -->
 
 ### Organizers 
 
