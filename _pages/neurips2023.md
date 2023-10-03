@@ -45,7 +45,7 @@ social: true
 
 We cordially invite submissions and participation in our “Backdoors in Deep Learning: The Good, the Bad, and the Ugly” workshop (neurips2023-bugs.github.io) that will be held on December 15 or 16, 2023 at NeurIPS 2023, New Orleans, USA. 
 
-The submission deadline is **<s>September 29, 2023</s> October 3rd, 2023, 23:59 AoE** and the submission link <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS">https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS</a>.
+The submission deadline is **<s>September 29, 2023</s> October 6th, 2023, 23:59 AoE** and the submission link <a href="https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS">https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/BUGS</a>.
 
 #### Motivation and Topics
 
@@ -90,7 +90,7 @@ Please fill out this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSd3L
 
 ### Important Dates
 
-* **Submission deadline**: <s>September 29th, 2023</s> October 3rd, 2023, 11:59 PM Anywhere on Earth (AoE)
+* **Submission deadline**: <s>September 29th, 2023</s> October 6th, 2023, 11:59 PM Anywhere on Earth (AoE)
 * **Author notification**: October 27th, 2023
 * **Camera-ready deadline**: December 1st, 2023, 11:59 PM Anywhere on Earth (AoE)
 * **Workshop date**: December 15th, 2023 (Full-day Event)
@@ -142,19 +142,31 @@ This workshop will not have formal proceedings, so we welcome the submission of 
 
 ### Panelists (Coming Soon)
 
-<!-- <table style="width:75%">
+<!-- <table style="width:100%">
   <tr>
-    <td style="text-align:center"><img src="assets/img/ashish_khisti.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/ties_van_rozendaal.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/george_toderici.jpg" height="175"></td>
-    <td style="text-align:center"><img src="assets/img/rashmi_vinayak.jpg" height="175"></td>
+    <td style="text-align:center"><img src="assets/img/panelist-franziska-boenisch-square.png" height="170" width="170" /></td>
+    <td style="text-align:center"><img src="assets/img/speaker-blank-square.png" height="170" width="170" /></td>
+    <td style="text-align:center"><img src="assets/img/speaker-blank-square.png" height="170" width="170" /></td>
+    <td style="text-align:center"><img src="assets/img/speaker-blank-square.png" height="170" width="170" /></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://www.ece.utoronto.ca/people/khisti-a/">Ashish Khisti</a> <br> Professor, University of Toronto</td>
-    <td style="text-align:center"><a href="http://www.tivaro.nl/">Ties van Rozendaal</a> <br> Senior Deep Learning Researcher, Qualcomm</td>
-    <td style="text-align:center"><a href="https://research.google/people/author38233/"> George Toderici </a> <br> Senior Staff Research Scientist, Google</td>
-    <td style="text-align:center"><a href="http://www.cs.cmu.edu/~rvinayak/">Rashmi Vinayak</a> <br>Assistant Professor, CMU</td>
+    <td style="text-align:center"><a href="https://franziska-boenisch.de/">Franziska Boenisch</a> <br> Postdoctoral Fellow, Vector Institute</td>
+    <td style="text-align:center"></td>
+    <td style="text-align:center"></td>
+    <td style="text-align:center"></td>
+  </tr> 
+  <!-- <tr>
+    <td style="text-align:center"></td>
+    <td style="text-align:center"></td>
+    <td style="text-align:center"></td>
+    <td style="text-align:center"></td>
   </tr>
+  <tr>
+    <td style="text-align:center"></td>
+    <td style="text-align:center"></td>
+    <td style="text-align:center"></td>
+    <td style="text-align:center"></td>
+  </tr>    -->
 </table> -->
 
 ### Organizers 
