@@ -56,7 +56,7 @@ social: true
     <td style="text-align:center"><img src="assets/img/speaker-florian-tramer-square.png" height="170" width="170"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://aisecure.github.io/">Bo Li</a> <br> Assistant Professor, UIUC</td>
+    <td style="text-align:center"><a href="https://aisecure.github.io/">Bo Li</a> <br> Associate Professor, UIUC</td>
     <td style="text-align:center"><a href="https://ruoxijia.info/">Ruoxi Jia</a> <br> Assistant Professor, Virginia Tech</td>
     <td style="text-align:center"><a href="https://adam-dziedzic.com/">Adam Dziedzic</a> <br> Assistant Professor, CISPA</td>
     <td style="text-align:center"><a href="https://floriantramer.com/">Florian Tramèr</a> <br> Assistant Professor, ETH Zürich</td>
@@ -87,7 +87,7 @@ social: true
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://franziska-boenisch.de/">Franziska Boenisch</a> <br>Tenure-track Faculty, CISPA</td>
-    <td style="text-align:center"><a href="https://aisecure.github.io/">Bo Li</a> <br> Assistant Professor, UIUC</td>
+    <td style="text-align:center"><a href="https://aisecure.github.io/">Bo Li</a> <br> Associate Professor, UIUC</td>
     <td style="text-align:center"></td>
     <td style="text-align:center"></td>
   </tr>
