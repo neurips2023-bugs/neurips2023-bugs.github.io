@@ -131,7 +131,7 @@ We gratefully acknowledge the support from our Sponsors.
     <td style="text-align:center"><img src="assets/img/org-tom-goldstein-square.jpg" height="150" width="150"></td>
   </tr>
   <tr>
-    <td style="text-align:center"><a href="https://angli.ai">Ang Li</a> <br>Simular Research, USA</td>
+    <td style="text-align:center"><a href="https://simular.ai">Ang Li</a> <br>Simular Research, USA</td>
     <td style="text-align:center"><a href="https://haripriyaaharikumar.github.io">Haripriya Harikumar</a> <br>Deakin University, Australia</td>
     <td style="text-align:center"><a href="https://ebagdasa.github.io/">Eugene Bagdasaryan</a> <br>Cornell Tech, USA</td>
     <td style="text-align:center"><a href="https://goldblum.github.io/">Micah Goldblum</a> <br>New York University, USA</td>
@@ -164,18 +164,18 @@ We gratefully acknowledge the support from our Sponsors.
 
 <table style="width:100%; align: left; border: none; spacing: none">
   <tr style="border: none; spacing: none"> 
-    <td style="text-align:center; border: none; spacing: none"><a href="https://vinuni.edu.vn/college-of-engineering-computer-science/"><img src="assets/img/inst-vinuni-cecs.png" height="50"></a></td>
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.vinai.io/"><img src="assets/img/inst-vinai.png" height="50"></a></td>  
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.deakin.edu.au/"><img src="assets/img/inst-deakin.png" height="50"></a></td>
-    <td style="text-align:center; border: none; spacing: none"><a href="https://tech.cornell.edu/"><img src="assets/img/inst-cornell-tech.png" height="50"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://vinuni.edu.vn/college-of-engineering-computer-science/"><img src="assets/img/inst-vinuni-cecs.png" height="40"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.vinai.io/"><img src="assets/img/inst-vinai.png" height="40"></a></td>  
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.deakin.edu.au/"><img src="assets/img/inst-deakin.png" height="40"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://simular.ai/"><img src="assets/img/inst-simular.png" height="40"></a></td>
   </tr>
 </table>
 <table style="width:100%; align: left; border: none; spacing: none">
   <tr> 
-    
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.cs.umd.edu/"><img src="assets/img/inst-umd-cs.png" height="50"></a></td>
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.clemson.edu/index.html"><img src="assets/img/inst-clemson.png" height="50"></a></td>
-    <td style="text-align:center; border: none; spacing: none"><a href="https://www.nyu.edu/"><img src="assets/img/New_York_University-Logo.png" height="50"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.cs.umd.edu/"><img src="assets/img/inst-umd-cs.png" height="40"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.clemson.edu/index.html"><img src="assets/img/inst-clemson.png" height="40"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://www.nyu.edu/"><img src="assets/img/New_York_University-Logo.png" height="40"></a></td>
+    <td style="text-align:center; border: none; spacing: none"><a href="https://tech.cornell.edu/"><img src="assets/img/inst-cornell-tech.png" height="40"></a></td>
     <!-- <td style="text-align:center; border: none; spacing: none"></td> -->
   </tr>
 </table>
