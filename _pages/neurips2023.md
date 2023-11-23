@@ -82,13 +82,13 @@ social: true
   <tr>
     <td style="text-align:center"><img src="assets/img/panelist-franziska-boenisch-square.png" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/speaker-bo-li-square.png" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/profile-placeholder.png" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-baoyuan-wu-square.png" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/profile-placeholder.png" height="170" width="170"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="https://franziska-boenisch.de/">Franziska Boenisch</a> <br>Tenure-track Faculty, CISPA</td>
     <td style="text-align:center"><a href="https://aisecure.github.io/">Bo Li</a> <br> Associate Professor, UIUC</td>
-    <td style="text-align:center"></td>
+    <td style="text-align:center"><a href="https://sites.google.com/site/baoyuanwu2015/">Baoyuan Wu</a> <br> Associate Professor, CUHK-Shenzhen</td>
     <td style="text-align:center"></td>
   </tr>
 </table>
