@@ -17,7 +17,7 @@ This workshop is designed to provide a comprehensive understanding of the curren
 <!-- **UPDATE**: fill out this form if you are interested in a post-workshop social: [https://forms.gle/XjeSVmyHnsp7EmLB6](https://forms.gle/XjeSVmyHnsp7EmLB6). -->
 
 <!-- ### Schedule (Meeting Room 317A, 9 AM - 5 PM, July 29, 2023) -->
-### Schedule (Tentative)
+### Schedule
 
 ⭐ **Link to NeurIPS page: [https://neurips.cc/virtual/2023/workshop/66550](https://neurips.cc/virtual/2023/workshop/66550)** ⭐
 
@@ -31,7 +31,7 @@ This workshop is designed to provide a comprehensive understanding of the curren
 | 09:30 am | **Invited Talk 2:** Recent Advances in Backdoor Defense and Benchmark | Baoyuan Wu  |
 | 10:00 am | Coffee Break                                                                           |  |
 |---------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 10:30 am | **Invited Talk 3**                                                                                | Dawn Song |
+| 10:30 am | **Invited Talk 4:** The difference between safety and security for watermarking                                                                                | Jonas Geiping |
 | 11:00 am | **Oral 1:** Effective Backdoor Mitigation Depends on the Pre-training Objective | Sahil Verma, Gantavya Bhatt, Soumye Singhal, Arnav Das, Chirag Shah, John Dickerson, Jeff A Bilmes |
 | 11:15 am  | **Invited Talk 4:** Universal jailbreak backdoors from poisoned human feedback | Florian Tramèr |
 | 11:45 am | Lunch Break | |
@@ -69,18 +69,19 @@ This workshop is designed to provide a comprehensive understanding of the curren
   <tr>
     <td style="text-align:center"><img src="assets/img/speaker-yiming-li-square.png" height="170" width="170"></td>
     <td style="text-align:center"><img src="assets/img/speaker-baoyuan-wu-square.png" height="170" width="170"></td>
-    <td style="text-align:center"><img src="assets/img/speaker-dawn-song-square.png" height="170" width="170"></td>
+    <td style="text-align:center"><img src="assets/img/speaker-jonas-geiping.png" height="170" width="170"></td>
     <td style="text-align:center"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="http://liyiming.tech/">Yiming Li</a> <br> Research Professor, Zhejiang University</td>
     <td style="text-align:center"><a href="https://sites.google.com/site/baoyuanwu2015/">Baoyuan Wu</a> <br> Associate Professor, CUHK-Shenzhen</td>
-    <td style="text-align:center"><a href="https://dawnsong.io/">Dawn Song</a> <br> Professor, UC Berkeley	</td>
+    <td style="text-align:center"><a href="https://jonasgeiping.github.io/">Jonas Geiping</a> <br> Research Group Leader, ELLIS Institute & MPI-IS	</td>
+    <!-- <td style="text-align:center"><a href="https://dawnsong.io/">Dawn Song</a> <br> Professor, UC Berkeley	</td> -->
     <td style="text-align:center"></td>
   </tr>
 </table>
 
-### Panelists (Still Updating)
+### Panelists
 
 
 <table style="width:100%">
