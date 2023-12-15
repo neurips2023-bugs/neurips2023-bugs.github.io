@@ -31,7 +31,7 @@ This workshop is designed to provide a comprehensive understanding of the curren
 | 09:30 am | **Invited Talk 2:** Recent Advances in Backdoor Defense and Benchmark | Baoyuan Wu  |
 | 10:00 am | Coffee Break                                                                           |  |
 |---------------------|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-| 10:30 am | **Invited Talk 4:** The difference between safety and security for watermarking                                                                                | Jonas Geiping |
+| 10:30 am | **Invited Talk 3:** The difference between safety and security for watermarking                                                                                | Jonas Geiping |
 | 11:00 am | **Oral 1:** Effective Backdoor Mitigation Depends on the Pre-training Objective | Sahil Verma, Gantavya Bhatt, Soumye Singhal, Arnav Das, Chirag Shah, John Dickerson, Jeff A Bilmes |
 | 11:15 am  | **Invited Talk 4:** Universal jailbreak backdoors from poisoned human feedback | Florian Tramèr |
 | 11:45 am | Lunch Break | |
