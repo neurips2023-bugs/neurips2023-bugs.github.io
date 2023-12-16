@@ -9,8 +9,8 @@ description: <strong>The Good, the Bad and the Ugly</strong> - Modern AI develop
 social: true
 ---
 
-<td style="text-align:center"><img src="assets/img/workshop-votes.png" height="170"></td> <br />
-<td style="text-align:center"><a href="https://bit.ly/bugs-orals">Vote Best Oral</a> | <a href="https://bit.ly/bugs-posters">Vote Best Poster</a></td> <br />
+<!-- <td style="text-align:center"><img src="assets/img/workshop-votes.png" height="170"></td> <br />
+<td style="text-align:center"><a href="https://bit.ly/bugs-orals">Vote Best Oral</a> | <a href="https://bit.ly/bugs-posters">Vote Best Poster</a></td> <br /> -->
 
 Deep neural networks (DNNs) are revolutionizing almost all AI domains and have become the core of many modern AI systems. Despite their superior performance compared to classical methods, DNNs also face new security problems, such as adversarial and backdoor attacks, that are hard to discover and resolve due to their black-box-like property. Backdoor attacks are possible because of insecure model pretraining and outsourcing practices. Due to the complexity and the tremendous cost of collecting data and training models, many individuals/companies employ models or training data from third parties. Malicious third parties can add backdoors into their models or poison their released data before delivering it to the victims to gain illegal benefits. This threat seriously damages the safety and trustworthiness of AI development.
 
